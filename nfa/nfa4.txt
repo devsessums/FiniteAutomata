@@ -1,0 +1,40 @@
+NFA
+0 1 2 3 4 5 6 7 8 a b c d e f g h i
+9
+Q2
+---
+Q0 Q1
+Q0 Q2
+Q0 Q3
+Q0 a Q4
+Q0 b Q4
+Q0 c Q4
+Q0 0 Q4
+Q0 1 Q4
+Q0 2 Q4
+Q1 Q5
+Q1 Q8
+Q2 Q5
+Q2 Q6
+Q3 Q6
+Q3 Q7
+Q4 Q7
+Q4 Q8
+Q5 a Q1
+Q5 b Q1
+Q5 c Q1
+Q5 3 Q2
+Q5 4 Q2
+Q5 5 Q2
+Q6 d Q2
+Q6 e Q2
+Q6 f Q2
+Q6 6 Q3
+Q6 7 Q3
+Q6 8 Q3
+Q7 g Q3
+Q7 h Q3
+Q7 i Q3
+Q8 0 Q1
+Q8 1 Q1
+Q8 2 Q1
